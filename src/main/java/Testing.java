@@ -1,14 +1,12 @@
-package main;
-
 import model.entity.Employee;
 import repository.Repository;
 import repository.impl.EmployeeRepository;
 
 import java.util.List;
 
-public class Main {
+public class Testing {
 
-    /*public static void main(String[] args) {
+    public static void main(String[] args) {
 
         System.out.println("Welcome");
         System.out.println("------------------------FIND ALL-------------------------------");
@@ -68,5 +66,4 @@ public class Main {
 //        employeeRepository.findById(updateEmp.getId());
 //        System.out.println(emp.toString());
     }
-*/
 }
